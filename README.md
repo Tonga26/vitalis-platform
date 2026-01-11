@@ -1,2 +1,14 @@
-# vitalis-platform
-Origins: This project is the evolution of the Vitalis Java JDBC (https://github.com/Tonga26/vitalis-java-jdbc). It takes the domain logic validated in pure Java and elevates it to a Scalable Web Architecture.
+Vitalis Platform (Work in Progress) 🚧
+Este repositorio alojará la evolución del proyecto Vitalis, migrando de una arquitectura de consola JDBC a una arquitectura Web moderna.
+
+Estado Actual: 🎓 En etapa de capacitación intensiva sobre el ciclo de vida de Servlets, JSP y el patrón MVC manual antes de implementar Spring Boot.
+
+Tech Stack Planificado:
+
+Spring Boot 3
+
+Spring Data JPA
+
+Spring Security
+
+React (Frontend)
